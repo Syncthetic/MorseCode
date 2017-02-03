@@ -15,7 +15,7 @@ MorseCode is a JavaScript Library to handle the encoding and decoding process of
     - `m.morse('.- -... -.-.', true);`
     
 - Testing the MorseCode Object
-  - MorseCode.test();
+  - `MorseCode.test();`
 
 - An object is not required to call functions
   - `MorseCode.encode('some string');`
